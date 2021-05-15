@@ -29,3 +29,5 @@ npm run lint
 See [Configuration Reference](https://cli.vuejs.org/config/).
 # Postman
 # Vue-Postman
+
+I have never work on vue or typescript till this assignment, so i haven't eble to complete it as i need more understanding in this platform.
